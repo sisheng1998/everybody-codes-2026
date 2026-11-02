@@ -38,7 +38,8 @@ unlocked). Don't guess the rules from my code. Wait for the paste. If I paste on
 
 ### 3. Write and build
 
-Create `tools/explanation-pdf/qN.py` and keep it in the repo, so the PDF can be rebuilt later. Model it closely on the
+Create `tools/explanation-pdf/qN.py` and keep it on disk, so the PDF can be rebuilt later. `tools/` is gitignored
+(local only), so don't commit it. Model it closely on the
 existing `tools/explanation-pdf/q*.py` scripts (read at least one or two in full first). They all have this shape:
 
 ```python
