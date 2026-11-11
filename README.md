@@ -34,6 +34,6 @@ npm run typecheck
 
 ## Explanations
 
-Each quest folder has an `explanation.pdf`: a step-by-step guide to the puzzle and a walkthrough of the solution, using the sample data.
+Each quest folder has an `explanation.pdf`: a step-by-step guide to the puzzle and the logic of the solution (no code), using the sample data.
 
 `CLAUDE.md` describes how Claude Code works in this repo: it gives hints only, without editing the solutions, and produces new explanation PDFs in this format.
